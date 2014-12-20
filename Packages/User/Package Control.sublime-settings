@@ -1,0 +1,32 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Auto Semi-Colon",
+		"Autoprefixer",
+		"BeautifyRuby",
+		"Color Highlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"CSS3",
+		"CSScomb JS",
+		"CSSLint",
+		"Emmet Css Snippets",
+		"ERB Autocomplete",
+		"HTML5",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"JSHint Gutter",
+		"Rails Developer Snippets",
+		"Ruby Blue Color Scheme",
+		"Ruby Markers",
+		"RubyToggleString",
+		"Sass",
+		"SASS Snippets",
+		"Syntax Highlighting for Sass",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"XMPFilter"
+	]
+}

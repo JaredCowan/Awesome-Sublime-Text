@@ -1,0 +1,9 @@
+# Ignore folders
+Local/**
+Index/**
+Cache/**
+Backup/**
+Packages/User/Package\ Control.cache/**
+
+# Ignore Files
+Packages/User/Package\ Control.last-run

@@ -1,0 +1,39 @@
+{
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html.erb"
+		}
+	],
+	"caret_style": "blink",
+	"color_scheme": "Packages/User/colour-schemes/Monokai Soda.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_white_space": "all",
+	"font_face": "Menlo",
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Javascript Beautify",
+		"Vintage",
+		"PHP",
+		"CSS"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"margin": 6,
+	"open_files_in_new_window": false,
+	"save_on_focus_lost": true,
+	"soda_classic_tabs": false,
+	"soda_folder_icons": true,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_separators": "./\\()\"'-:,.;<>~\\!\"@#$%^&*|+=[]{}_::`~?"
+}

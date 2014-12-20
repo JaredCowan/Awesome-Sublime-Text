@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+&lt;${1:tag}&gt;&lt;/${1:tag}&gt;
+]]></content>
+  <!-- escape '<' and '>' tags -->
+  <tabTrigger>esc</tabTrigger>
+</snippet>

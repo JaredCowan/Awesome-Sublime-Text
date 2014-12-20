@@ -1,0 +1,27 @@
+<snippet>
+  <content><![CDATA[<ol>
+  <li>Header
+    <ol>
+    <li>Item</li>
+    <li>Item</li>
+    <li>Item</li>
+    </ol>
+  </li>
+  <li>Header
+    <ol>
+    <li>Item</li>
+    <li>Item</li>
+    <li>Item</li>
+    </ol>
+  </li>
+  <li>Header
+    <ol>
+    <li>Item</li>
+    <li>Item</li>
+    <li>Item</li>
+    </ol>
+  </li>
+</ol>]]></content>
+<tabTrigger>oln</tabTrigger>
+<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,25 @@
+<snippet>
+<content><![CDATA[<!DOCTYPE html>
+<html lang="en" ng-app>
+  <head>
+    <meta charset="UTF-8">
+    <title> Title Placeholder </title>
+    <meta name="author" content="Jared Cowan" />
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.19/angular.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <!-- <script src=""></script> -->
+  </head>
+  <body> <!-- ng-controller -->
+    <header>
+    </header>
+    $1
+
+
+    <footer>    
+    </footer>
+  </body>
+</html>]]></content>
+<tabTrigger>ang</tabTrigger>
+<scope></scope>
+</snippet>

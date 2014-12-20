@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<!-- Code Window -->
+<div class="highlight"><pre class="prettyprint"><code>&lt;${1:tag}&gt;
+  &lt;${2:tag}&gt;
+    ...
+  &lt;/${2:tag}&gt;
+&lt;/${1:tag}&gt;</code></pre></div><!-- END 'highlight' div -->
+<!-- END Code Window -->
+]]></content>
+<tabTrigger>exmp</tabTrigger>
+</snippet>

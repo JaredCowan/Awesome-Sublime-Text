@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<div class="${1:name}">
+  ${2:}
+</div> <!-- CLOSING ${1:name} -->
+]]></content>
+  <tabTrigger>div</tabTrigger>
+</snippet>

@@ -1,0 +1,25 @@
+<snippet>
+<content><![CDATA[<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title> Title Placeholder </title>
+    <meta name="author" content="Jared Cowan" />
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src=""></script>
+  </head>
+  <body>
+    <header> </header>
+    $1
+
+
+    <footer> 
+      <center> <p> &copy; 2014 Jared L. Cowan </p></center>
+    </footer>
+  </body>
+</html>]]></content>
+<tabTrigger>ht</tabTrigger>
+<scope>text.html</scope>
+</snippet>
