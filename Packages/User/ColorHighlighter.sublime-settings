@@ -1,4 +1,19 @@
 {
+	"file_exts":
+	[
+		".css",
+		".css3",
+		".sass",
+		".scss",
+		".less",
+		".styl",
+		".html",
+		".js",
+		".sublime-settings",
+		".tmTheme",
+		".erb",
+		".haml"
+	],
 	"ha_style": "underlined_solid",
-	"style": "filled"
+	"style": "underlined_solid"
 }
