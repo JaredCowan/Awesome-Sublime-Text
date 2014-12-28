@@ -15,5 +15,6 @@
 		".haml"
 	],
 	"ha_style": "underlined_solid",
+	"icons_all": false,
 	"style": "underlined_solid"
 }
